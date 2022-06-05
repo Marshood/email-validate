@@ -1,0 +1,31 @@
+{
+  "name": "email-validate",
+  "version": "1.0.0",
+  "description": "Email Validation is a procedure that verifies if an email address is deliverable and valid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marshood/email-validate.git"
+  },
+  "author": "Marshood Ayoub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marshood/email-validate/issues"
+  },
+  "keywords": [
+    "email-validate",
+    "email",
+    "validation",
+    "validator",
+    "syntax",
+    "company",
+    "work",
+    "val-email",
+    "blocked-emails",
+    "black-list"
+  ],
+  "homepage": "https://github.com/Marshood/email-validate#readme"
+}
