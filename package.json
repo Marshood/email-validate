@@ -1,6 +1,6 @@
 {
   "name": "email-val",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Email Validation is a procedure that verifies if an email address is deliverable and valid.",
   "main": "index.js",
   "scripts": {
