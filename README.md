@@ -1,4 +1,4 @@
-# email-val
+# check-email-validation
 
 A module to validate email's, useful in form validation, validate company email's, companey domain's and black list email's  
 This can be most useful in form validation to avoid those pesky spam emails
@@ -6,14 +6,14 @@ This can be most useful in form validation to avoid those pesky spam emails
 # Installation
 
 ```
- $ npm i email-val
- $ npm i email-val --save-dev
+ $ npm i check-email-validation
+ $ npm i echeck-email-validation --save-dev
 ```
 
 # Usage
 
 ```js
-import {validate,addCompanyEmail,isCompanyEmail,addCompanyDomain,isCompanyDomain,addToBlackList,isInBlackList,getBlackList,getCompanyEmail,getCompanyDomain} from 'email-val';
+import {validate,addCompanyEmail,isCompanyEmail,addCompanyDomain,isCompanyDomain,addToBlackList,isInBlackList,getBlackList,getCompanyEmail,getCompanyDomain} from 'check-email-validation';
 
 validate(type?:string);              //  => true/ false
 addCompanyEmail(type?:string);       //  => true/ false
